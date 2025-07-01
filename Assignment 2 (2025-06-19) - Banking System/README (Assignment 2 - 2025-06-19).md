@@ -41,7 +41,7 @@ Assignment 2 (2025-06-19) - Banking System/
 ├── banking.py                                 # Class definitions and utility function
 ├── demo.py                                    # Demonstration script for all features
 ├── 2025-06-19 Assignment - Banking System.pdf # Assignment document
-├── README.md                                  # This file, describing the project and usage
+├── README(Assignment 2 - 2025-06-19.md                                  # This file, describing the project and usage
 ```
 
 ## How to Run
