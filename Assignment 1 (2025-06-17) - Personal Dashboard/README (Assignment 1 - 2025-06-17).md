@@ -49,7 +49,7 @@ Assignment 1 (2025-06-17) - Personal Dashboard/
      ```
    - Navigate to the repository folder:
      ```
-     cd Assignment 1 (2025-06-17) - Personal Dashboard
+     cd "Assignment 1 (2025-06-17) - Personal Dashboard"
      ```
 3. **Run the Program**:
    - Execute the Python script:
