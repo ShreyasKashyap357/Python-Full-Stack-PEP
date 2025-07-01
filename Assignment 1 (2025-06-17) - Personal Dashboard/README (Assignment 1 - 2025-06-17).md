@@ -45,11 +45,11 @@ Assignment 1 (2025-06-17) - Personal Dashboard/
 2. **Setup**:
    - Clone this repository:
      ```
-     git clone https://github.com/your-username/personal-dashboard.git
+     git clone https://github.com/ShreyasKashyap357/Python-Full-Stack-PEP.git
      ```
    - Navigate to the repository folder:
      ```
-     cd personal-dashboard
+     cd Assignment 1 (2025-06-17) - Personal Dashboard
      ```
 3. **Run the Program**:
    - Execute the Python script:
