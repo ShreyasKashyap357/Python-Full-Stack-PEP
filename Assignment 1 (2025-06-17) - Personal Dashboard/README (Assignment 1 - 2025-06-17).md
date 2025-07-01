@@ -34,9 +34,9 @@ The goal is to create a Python program that serves as a personal dashboard with 
 ## Repository Structure
 ```
 Assignment 1 (2025-06-17) - Personal Dashboard/
-├── dashboard.py       # Main Python script with the personal dashboard program
-├── 2025-06-17 Assignment - Personal Dashboard.pdf #Assignment document
-├── README(Assignment 1 - 2025-06-17).md         # This file, describing the project and usage
+├── dashboard.py                                     # Main Python script with the personal dashboard program
+├── 2025-06-17 Assignment - Personal Dashboard.pdf   # Assignment document
+├── README(Assignment 1 - 2025-06-17).md             # This file, describing the project and usage
 ```
 
 ## How to Run
