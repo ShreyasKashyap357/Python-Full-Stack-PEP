@@ -38,10 +38,10 @@ The goal is to create a Python program that implements a banking system with the
 ## Repository Structure
 ```
 Assignment 2 (2025-06-19) - Banking System/
-├── banking.py                                 # Class definitions and utility function
-├── demo.py                                    # Demonstration script for all features
-├── 2025-06-19 Assignment - Banking System.pdf # Assignment document
-├── README(Assignment 2 - 2025-06-19.md                                  # This file, describing the project and usage
+├── banking.py                                   # Class definitions and utility function
+├── demo.py                                      # Demonstration script for all features
+├── 2025-06-19 Assignment - Banking System.pdf   # Assignment document
+├── README(Assignment 2 - 2025-06-19.md          # This file, describing the project and usage
 ```
 
 ## How to Run
@@ -54,7 +54,7 @@ Assignment 2 (2025-06-19) - Banking System/
      ```
    - Navigate to the repository folder:
      ```
-     cd Assignment 2 (2025-06-19) - Banking System
+     cd "Assignment 2 (2025-06-19) - Banking System"
      ```
 3. **Run the Program**:
    - Execute the demonstration script:
